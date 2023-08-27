@@ -9,3 +9,6 @@ create table emp(
     
 );
 desc dept;
+insert into emp values (1,'omkar',19000,1);
+insert into emp values (2,'omkar',19000,2);
+insert into emp values(3,'omkar',17000,1);
